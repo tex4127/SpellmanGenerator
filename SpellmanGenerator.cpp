@@ -1,0 +1,3 @@
+#include "SpellmanGenerator.h"
+
+Spellman
